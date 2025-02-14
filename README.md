@@ -46,3 +46,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/Fourier_transforms.ipynb)
 
+- Image processing workflow in Python
+	* [Image_analysis_tutorial.ipynb](Image_analysis_tutorial.ipynb)
+	* GoogleColab:
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/Image_analysis_tutorial.ipynb)
