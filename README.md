@@ -40,4 +40,9 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/Intro_DigitalImages.ipynb)
 
+### 2. Introduction to Image Processing
+- Introduction to images filtering in Python
+	* [Fourier_transforms.ipynb](Fourier_transforms.ipynb)
+	* GoogleColab:
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/Fourier_transforms.ipynb)
 
