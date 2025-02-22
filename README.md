@@ -50,3 +50,12 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	* [Image_analysis_tutorial.ipynb](Image_analysis_tutorial.ipynb)
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/Image_analysis_tutorial.ipynb)
+- Image Segmentation in Python 
+	* [Image_analysis_tutorial_II.ipynb](Image_analysis_tutorial_II.ipynb)
+	* GoogleColab:
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/Image_analysis_tutorial_II.ipynb)
+- Image Segmentation using Deep Learning in Python 
+	* [ImageSegmentation_UNet.ipynb](ImageSegmentation_UNet.ipynb)
+	* GoogleColab:
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/Image_Processing/blob/main/ImageSegmentation_UNet.ipynb)
+   
