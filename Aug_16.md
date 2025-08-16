@@ -82,7 +82,7 @@ El código demuestra cómo visualizar el efecto de reducir la **profundidad de b
 
 Este proceso ilustra cómo menos niveles de gris producen **bandas visibles y pérdida de detalle**.  
 
-![Bit depth](clas_ss/iimage-3.png)
+![Bit depth](class_ss/iimage-3.png)
 ![Subplots](class_ss/iimage.png)
 
 ---
